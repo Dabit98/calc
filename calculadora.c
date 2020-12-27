@@ -23,6 +23,9 @@ int main() {
         case 'x':
             resultado = x * y;
             break;
+        case '/':
+            resultado = x / y;
+            break;
         default:
             valido = 0;
     }
