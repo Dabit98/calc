@@ -27,7 +27,7 @@ int main() {
             resultado = x + y;
             break;
         case '-':
-            resultado = y - x;
+            resultado = x - y;
             break;
         case '*':
         case 'x':
